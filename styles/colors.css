@@ -1,0 +1,12 @@
+.bg-main-color{
+    background-color: var(--bg-main-color);
+}
+.text-header-color{
+    color: var(--text-header-color);
+}
+.text-main-color{
+    color: var(--text-main-color);
+}
+.third-color{
+    color: var(--third-color);
+}
